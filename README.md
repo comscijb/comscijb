@@ -36,7 +36,7 @@ The project includes authentication, role-based access, job postings, applicatio
 
 The main repository is private, but a technical case study is available in my portfolio.
 
-### [Lead Classification App](https://github.com/comscijb/automacao-de-leads)
+### [Lead Classification App](https://github.com/comscijb/lead-automation-app)
 Full stack application for registering and prioritizing commercial leads.
 
 Built with React, TypeScript, Node.js, Express, PostgreSQL and Prisma, including backend scoring, lead status management and dashboard metrics.
