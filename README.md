@@ -27,7 +27,7 @@ AWS · AWS CDK · Docker · Git · GitHub · Stripe
 
 ## Selected work
 
-### ConstruiQ
+### [ConstruiQ](https://jeanborgesdev.com/projetos/construiq)
 **B2B marketplace for construction hiring**
 
 Full stack platform developed with React, TypeScript, NestJS, PostgreSQL, Prisma, Stripe and AWS.
@@ -40,9 +40,6 @@ The main repository is private, but a technical case study is available in my po
 Full stack application for registering and prioritizing commercial leads.
 
 Built with React, TypeScript, Node.js, Express, PostgreSQL and Prisma, including backend scoring, lead status management and dashboard metrics.
-
-### [Chrome Extension](https://github.com/comscijb/atalho-secreto-extensao-chrome)
-Chrome extension project focused on browser-based workflows and practical product experimentation.
 
 ### [Developer Portfolio](https://github.com/comscijb/jean-borges-dev-portfolio)
 My personal portfolio built with React, TypeScript, Vite and Chakra UI.
