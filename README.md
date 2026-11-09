@@ -1,60 +1,41 @@
 # Jean Borges
 
-**Full Stack Developer | TypeScript · React · Node.js**
+**Full Stack Developer | TypeScript · React · Node.js | Applied AI**
 
-I'm a Computer Science student in my final semester, focused on building full stack web applications with TypeScript.
-
-Most of my recent work has been around React, Node.js, NestJS, PostgreSQL and REST APIs, with growing experience in testing, cloud infrastructure and payment integrations.
-
-Currently, my main project is **ConstruiQ**, a B2B marketplace for the construction industry that brings together authentication, user roles, job postings, applications, contracts, payments, ratings, disputes and administrative workflows.
-
-## Tech stack
-
-**Frontend**  
-React · TypeScript · JavaScript · Vite · HTML · CSS · Chakra UI · React Query
-
-**Backend**  
-Node.js · NestJS · Express · REST APIs
-
-**Data**  
-PostgreSQL · Prisma
-
-**Testing**  
-Jest · Vitest · Testing Library
-
-**Cloud & tools**  
-AWS · AWS CDK · Docker · Git · GitHub · Stripe
+I build full stack web applications with TypeScript and production pipelines around LLMs and local generative models. Final semester of a B.Sc. in Computer Science (December 2026), based in Brazil (UTC-3) and open to remote roles.
 
 ## Selected work
 
+### [Private Gravity Studio](https://github.com/comscijb/youtube-agentic-ai-studio)
+**Agentic AI pipeline that takes a story premise to a published YouTube episode** · Python, Gemini API, ComfyUI, Kokoro TTS, YouTube Data API
+
+Multi-stage narrative generation with JSON contracts, deterministic validators and an LLM editorial review; local image generation with layered visual QA; local narration with stutter detection; a hash-bound human approval gate and a publication ledger synced with YouTube. About 1,000 offline tests with every external API mocked. Extended from an open-source project and running in production for a live channel.
+
 ### [ConstruiQ](https://jeanborgesdev.com/projetos/construiq)
-**B2B marketplace for construction hiring**
+**B2B marketplace for construction hiring** · React, TypeScript, NestJS, PostgreSQL, Prisma, Stripe, AWS CDK
 
-Full stack platform developed with React, TypeScript, NestJS, PostgreSQL, Prisma, Stripe and AWS.
-
-The project includes authentication, role-based access, job postings, applications, chat, contracts, payment flows, ratings, disputes, KYC and administrative features.
-
-The main repository is private, but a technical case study is available in my portfolio.
+Authentication, role-based access, job postings, applications, chat, contracts, payment flows, ratings, disputes, KYC and admin workflows. The repository is private; a technical case study is in my portfolio.
 
 ### [Lead Classification App](https://github.com/comscijb/lead-automation-app)
-Full stack application for registering and prioritizing commercial leads.
-
-Built with React, TypeScript, Node.js, Express, PostgreSQL and Prisma, including backend scoring, lead status management and dashboard metrics.
+Full stack app for registering and prioritizing sales leads: React, TypeScript, Express, PostgreSQL and Prisma, with backend scoring rules, pipeline status and dashboard metrics.
 
 ### [Developer Portfolio](https://github.com/comscijb/jean-borges-dev-portfolio)
-My personal portfolio built with React, TypeScript, Vite and Chakra UI.
+React, TypeScript, Vite and Chakra UI. Live at [jeanborgesdev.com](https://jeanborgesdev.com).
 
-Live version: [jeanborgesdev.com](https://jeanborgesdev.com)
+## Tech stack
+
+- **Frontend**: React · TypeScript · JavaScript · Vite · Chakra UI · React Query
+- **Backend**: Node.js · NestJS · Express · REST APIs · Python
+- **Data and testing**: PostgreSQL · Prisma · Jest · Vitest · Testing Library · unittest
+- **AI**: Gemini API · structured LLM outputs · ComfyUI (FLUX) · local TTS · vision-model QA · Claude Code
+- **Cloud and tools**: AWS · AWS CDK · Docker · Git · Stripe
 
 ## About me
 
-- B.Sc. in Computer Science, expected December 2026
-- English C2, EF SET English Certificate
-- Based in Porto Alegre, Brazil
-- Currently focused on Full Stack Junior and Software Engineer entry-level opportunities
+- B.Sc. in Computer Science, UniRitter, December 2026
+- Portuguese (native) · English C2 (EF SET) · Spanish (intermediate)
+- Ten years running a freelance music production business before moving into software
 
 ## Contact
 
-- Portfolio: [jeanborgesdev.com](https://jeanborgesdev.com)
-- GitHub: [github.com/comscijb](https://github.com/comscijb)
-- Email: [comscijb@gmail.com](mailto:comscijb@gmail.com)
+[jeanborgesdev.com](https://jeanborgesdev.com) · [comscijb@gmail.com](mailto:comscijb@gmail.com)
